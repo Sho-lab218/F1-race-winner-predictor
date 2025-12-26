@@ -2,10 +2,6 @@
 
 A full-stack machine learning application that predicts Formula 1 race winners using probabilistic models. Built with React, FastAPI, and the official FastF1 API.
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![React](https://img.shields.io/badge/React-18-blue.svg)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 🎯 Overview
 
