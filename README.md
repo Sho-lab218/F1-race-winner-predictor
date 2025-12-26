@@ -41,6 +41,34 @@ This system provides **probabilistic estimates** of win likelihoods based on his
 └─────────────────┘
 ```
 
+## 📸 Screenshots
+
+![Main Interface](screenshots/main-interface.png)
+*Race configuration and prediction interface*
+
+![Prediction Results](screenshots/prediction-results.png)
+*Podium visualization with win probabilities*
+
+![Probability Chart](screenshots/probability-chart.png)
+*Win probability distribution for all drivers*
+
+![Driver Rankings](screenshots/driver-rankings.png)
+*Complete driver rankings table*
+
+## 📸 Screenshots
+
+![Main Interface](screenshots/main-interface.png)
+*Race configuration and prediction interface*
+
+![Prediction Results](screenshots/prediction-results.png)
+*Podium visualization with win probabilities*
+
+![Probability Chart](screenshots/probability-chart.png)
+*Win probability distribution for all drivers*
+
+![Driver Rankings](screenshots/driver-rankings.png)
+*Complete driver rankings table*
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -111,6 +139,7 @@ F1/
 │   ├── feature_engineering.py
 │   ├── models.py          # Model training
 │   └── predictions.py    # Prediction logic
+├── screenshots/            # Application screenshots
 ├── main.py                # Training pipeline
 ├── requirements.txt       # Python dependencies
 └── README.md
